@@ -19,6 +19,9 @@ void input()
 
      }
 
+    //accept array elemets
+    cout << "\n--------------------\n";
+
 }
 
 
