@@ -35,6 +35,15 @@ void LinearSearch()
     char ch;
     int ctr; //Number of comparisons
     int item;
+
+    do
+    {
+        // Accept the number to be searched 
+        cout << "\nEnter the elemet you want to search: "; //steps 1
+        cin >> item;
+
+
+    }
 }
 
 int main()
