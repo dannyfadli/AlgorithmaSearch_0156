@@ -22,6 +22,7 @@ void input()
     //accept array elemets
     cout << "\n-------------------\n";
     cout << " Enter array elemets \n";
+    cout << "---------------------\n";
 }
 
 
