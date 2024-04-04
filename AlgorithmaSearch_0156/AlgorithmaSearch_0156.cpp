@@ -23,6 +23,10 @@ void input()
     cout << "\n-------------------\n";
     cout << " Enter array elemets \n";
     cout << "---------------------\n";
+    for (i = 0; i < n; i++)
+    {
+
+    }
 }
 
 
