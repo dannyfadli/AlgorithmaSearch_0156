@@ -49,7 +49,7 @@ void LinearSearch()
             ctr++;
             if (arr[i] == item)
             {
-
+                cout << "\n" << "found at position " << (i + 1) << endl;    //step 6
             }
         }
     }
